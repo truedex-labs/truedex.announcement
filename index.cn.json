@@ -2,5 +2,8 @@
     {
         "title":"限时活动",
         "url": "content/aplpromo.cn.json"
+    },  {
+        "title":"交易大赛",
+        "url": "content/tdtrade.cn.json"
     }
 ]
