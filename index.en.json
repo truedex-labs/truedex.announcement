@@ -1,13 +1,13 @@
 [
-   {
+    {
         "title":"Special Pomotion",
         "url": "content/aplpromo.en.json"
-    }, {
+    },  {
         "title":"Trading Competition",
-        "url": "content/aplpromo.en.json"
+        "url": "content/tdtrade.en.json"
     },{
         "title":"Announcement on TrueDEX's Listing of KPEPE/USDT、DOT/USDT、APT/USDT as Three Popular Trading Currency",
-        "url": "content/announcement.en.json"
+        "url": "content/announcement.cn.json"
     },  {
         "title":"Announcement on TrueDEX Listing of KSHIB/USDT Trading Currency",
         "url": "content/announcementkshib.en.json"
