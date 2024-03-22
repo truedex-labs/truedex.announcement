@@ -10,7 +10,6 @@
         "url": "content/ton24.3.22.cn.json"   
     },  {
         "title":"关于TrueDEX上架CFX/USDT、CKB/USDT、NEAR/USDT交易对的公告",
-        "url": "https://cn-announce.truedex.io",
-        "type": "html"
+        "url": "content/240322.cn.html"
     }
 ]

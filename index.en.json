@@ -10,7 +10,7 @@
         "url": "content/ton24.3.22.en.json"   
     },  {
         "title":"Announcement on TrueDEX Listing CFX/USDT, CKB/USDT, NEAR/USDT Trading",
-        "url": "https://announce.truedex.io",
-        "type": "html"
+        "url": "content/240322.en.html",
+
     }
 ]
