@@ -1,15 +1,6 @@
 [
     {
-        "title":"Trading Competition",
-        "url": "content/aplpromo.en.json"
-    }, {
-        "title":"Announcement on TrueDEX's Listing of KPEPE/USDT, DOT/USDT, and APT/USDT as Three Popular Trading Currency",
-        "url": "content/announcement.en.json"
-    }, {
-        "title":"Announcement on TrueDEX Listing of KSHIB/USDT Trading Currency",
-        "url": "content/announcementkshib.en.json"
-    }, {
-        "title":"Announcement on TrueDEX Listing of EAC/USDT Trading Currency",
-        "url": "content/announcementeac.en.json"
+        "title":"Announcement on TrueDEX Listing CFX/USDT, CKB/USDT, NEAR/USDT Trading",
+        "url": "content/truedex24.3.22a.en.json"    
     }
 ]
