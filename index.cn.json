@@ -1,15 +1,6 @@
 [
     {
-        "title":"交易大赛",
-        "url": "content/aplpromo.cn.json"
-    },  {
-        "title":"关于TrueDEX上架KPEPE/USDT、DOT/USDT、APT/USDT三个热门交易币对的公告",
-        "url": "content/announcement.cn.json"
-    },  {
-        "title":"关于TrueDEX上架KSHIB/USDT交易币对的公告",
-        "url": "content/announcementkshib.cn.json"
-    },  {
-        "title":"关于TrueDEX上架EAC/USDT交易对的公告",
-        "url": "content/announcementeac.cn.json"
+        "title":"关于TrueDEX上架CFX/USDT、CKB/USDT、NEAR/USDT交易对的公告",
+        "url": "content/truedex24.3.22a.cn.json"    
     }
 ]
