@@ -1,6 +1,12 @@
 [
     {
-        "title":"关于Buyer交易者享受APL奖励的活动公告",
-        "url": "content/aplpromo.cn.json"    
+        "title":"关于Buyer交易者享受APL奖励的活动公告",    
+        "url": "content/aplpromo.cn.json"
+    },  {
+        "title":"关于TrueDEX上架TON/USDT交易对的公告",
+        "url": "content/ton24.3.22.cn.json"   
+    },  {
+        "title":"关于TrueDEX上架CFX/USDT、CKB/USDT、NEAR/USDT交易对的公告",
+        "url": "content/truedex24.3.22.cn.json"
     }
 ]
