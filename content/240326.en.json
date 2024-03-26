@@ -1,4 +1,4 @@
 {
-    "content": "Remove the price sliding point restriction from the price limit order"
+    "content": "1.Remove the price sliding point restriction from the price limit order; 2.Fix the issue of not refreshing the latest transactions when switching currency pairs"
      
 }
