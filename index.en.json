@@ -3,16 +3,16 @@
         "title":"Announcement on the Activity of Buyer Traders Enjoying APL Rewards",    
         "url": "content/aplpromo.en.json"
     },  {
-        "title":"<04/01> TrueDEX was released to the production environment",
+        "title":"TrueDEX was released to the production environment(01/04/2024)",
         "url": "content/240401.en.html"    
     },  {
-        "title":"Announcement on TrueDEX Listing TON/USDT Trading",
+        "title":"Announcement on TrueDEX Listing TON/USDT Trading(2024-03-22)",
         "url": "content/ton24.3.22.en.json"   
     },  {
-        "title":"Announcement on TrueDEX Listing CFX/USDT, CKB/USDT, NEAR/USDT Trading",
+        "title":"Announcement on TrueDEX Listing CFX/USDT, CKB/USDT, NEAR/USDT Trading(2024-03-22)",
         "url": "content/240322.en.html"
     },  {
-        "title":"About TrueDEX Version Update Announcement",
-        "url": "content/240326.en.json"
+        "title":"About TrueDEX Version Update Announcement(2024-03-26)",
+        "url": "content/240326.en.html"
     }
 ]
