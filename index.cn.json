@@ -1,16 +1,10 @@
 [
     {
-        "title":"关于买家交易者享受APL奖励的活动公告",    
+        "title":"关于买家交易者享受APL奖励的活动公告",
         "url": "content/aplpromo.cn.json"
     },  {
-        "title":"关于xChain升级公告 (2024-04-13)",
-        "url": "content/240413.cn.html"   
-    },  {
-        "title":"关于TrueDEX版本更新公告 (2024-04-02)",
-        "url": "content/240402.cn.html"   
-    },  {
-        "title":"关于TrueDEX版本更新公告 (2024-04-07)",
-        "url": "content/240407.cn.html"
+        "title":"关于新增交易对BCTZ/USDT公告 (2024-05-26)",
+        "url": "content/240526.cn.json"
     },  {
         "title":"关于xChain升级公告 (2024-04-08)",
         "url": "content/240408.cn.html"
