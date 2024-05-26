@@ -1,18 +1,12 @@
 [
      {
-        "title":"Announcement on the Activity of Buyer Traders Enjoying APL Rewards",    
+        "title":"Announcement on the Activity of Buyer Traders Enjoying APL Rewards",
         "url": "content/aplpromo.en.json"
     },  {
         "title":"About xChain Upgrade Announcement(13/04/2024)",
-        "url": "content/240413.en.html"    
+        "url": "content/240413.en.html"
     },  {
-        "title":"About TrueDEX Version Update Announcement(02/04/2024)",
-        "url": "content/240402.en.html"   
-    },  {
-        "title":"About TrueDEX Version Update Announcement(07/04/2024)",
-        "url": "content/240407.en.html"
-    },  {
-        "title":"About xChain Upgrade Announcement(08/04/2024)",
-        "url": "content/240408.en.html"
+        "title":"About TrueDEX listing BCTZ/USDT (26/05/2024)",
+        "url": "content/240526.en.json"
     }
 ]
