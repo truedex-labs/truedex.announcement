@@ -1,3 +1,7 @@
 {
-    "content": "The assets page of TrueDEX has added a list of NFT assets for achievement medals owned by the logged-in account. Please go and check the NFT medals you have obtained. If the medal has not been issued, please go to https://t.me/tychefi and communicate with the admins to obtain the medals belonging to you. Happy trading every day!"
+    "content": "The assets page of TrueDEX has added a list of NFT assets for achievement medals owned by the logged-in account. Please go and check the NFT medals you have obtained. If the medal has not been issued, please go to TycheFi DAO group and communicate with the admins to obtain the medals belonging to you. Happy trading every day!"
+    "link":  {
+        "title": "Achievement NFTs>>",
+        "url": "https://t.me/tychefi"
+    }
 }
