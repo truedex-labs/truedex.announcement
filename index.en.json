@@ -1,18 +1,22 @@
 [
-     {
-        "title":"Announcement on the Activity of Buyer Traders Enjoying APL Rewards",
-        "url": "content/aplpromo.en.json"
-    },  {
-        "title":"Announcement about xChain supporting Solana public chain(27/05/2024)",
-        "url": "content/240527.en.json"
-    },  {
-        "title":"About TrueDEX listing BCTZ/USDT (26/05/2024)",
-        "url": "content/240526.en.json"
-    },  {
-        "title":"About TrueDEX's online quick buy USDT function (05/06/2024)",
-        "url": "content/240605.en.json"
-    },  {
+    {
+        "title":"Announcement on TrueDex adding white theme function  (23/09/2024)",
+        "url": "content/240923.cn.html"
+    },
+    {
         "title":"Announcement on TrueDEX adding achievement medal function (07/06/2024)",
         "url": "content/240607.en.json"
+    },
+    {
+        "title":"About TrueDEX's online quick buy USDT function (05/06/2024)",
+        "url": "content/240605.en.json"
+    },
+    {
+        "title":"Announcement about xChain supporting Solana public chain(27/05/2024)",
+        "url": "content/240527.en.json"
+    }, 
+    {
+        "title":"About TrueDEX listing BCTZ/USDT (26/05/2024)",
+        "url": "content/240526.en.json"
     }
 ]
