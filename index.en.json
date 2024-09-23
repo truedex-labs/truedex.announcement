@@ -1,8 +1,5 @@
 [
     {
-        "title":"Announcement about white theme function",
-        "url": "content/240923.cn.html"
-    },,  {
         "title":"Announcement about xChain supporting Solana public chain(27/05/2024)",
         "url": "content/240527.en.json"
     },  {
@@ -14,5 +11,8 @@
     },  {
         "title":"Announcement on TrueDEX adding achievement medal function (07/06/2024)",
         "url": "content/240607.en.json"
+    },  {
+        "title":"Announcement about white theme function",
+        "url": "content/240923.cn.html"
     }
 ]
